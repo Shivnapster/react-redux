@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shivnapster/shiv-redux.git"
+    "url": "git+https://github.com/Shivnapster/react-redux.git"
   },
   "keywords": [
     "redux"
@@ -32,7 +32,7 @@
   "author": "Shiv Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shivnapster/shiv-redux/issues"
+    "url": "https://github.com/Shivnapster/react-redux/issues"
   },
   "homepage": "https://github.com/Shivnapster/shiv-redux#readme"
 }

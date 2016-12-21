@@ -1,18 +1,1 @@
- █ [ /home/cronj-akash/Desktop/react-redux ] git init
-Reinitialized existing Git repository in /home/cronj-akash/Desktop/react-redux/.git/
-
-█ [ /home/cronj-akash/Desktop/react-redux ] git add .
-
-█ [ /home/cronj-akash/Desktop/react-redux ] git commit -m "Initial █ [ /home/cronj-akash/Desktop/react-redux ] git commit -m "Initialize commit, setup finished"
-error: pathspec 'commit,' did not match any file(s) known to git.
-error: pathspec 'setup' did not match any file(s) known to git.
-error: pathspec 'finished' did not match any file(s) known to git.
-
-█ [ /home/cronj-akash/Desktop/react-redux ] git commit -m "initial commit, setup finished"
-error: pathspec 'commit,' did not match any file(s) known to git.
-error: pathspec 'setup' did not match any file(s) known to git.
-error: pathspec 'finished' did not match any file(s) known to git.
-
-" 
-error: pathspec 'Redux' did not match any file(s) known to git.
-
+ 
